@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Recognizer</string>
+    <string name="captureImage">Capture Image</string>
+    <string name="textRecognize">Text Recognize</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="btnSearch">Google Search</string>
+</resources>

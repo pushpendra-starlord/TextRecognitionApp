@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736937132516",
+    "firebase_url": "https://text-recognizer-19703.firebaseio.com",
+    "project_id": "text-recognizer-19703",
+    "storage_bucket": "text-recognizer-19703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736937132516:android:6029609d934d9873b607f1",
+        "android_client_info": {
+          "package_name": "com.starlord.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736937132516-oghbolmq0323srsugtnav97eu0u8pvf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbjBJfsyTr56_vT2cqWhqXwEPdmQArWDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736937132516-oghbolmq0323srsugtnav97eu0u8pvf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

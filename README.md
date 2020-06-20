@@ -10,7 +10,7 @@ Then it is displayed to the user through a popup layout. User can google search 
 Clone the project in Android Studio or simply download the zip file.
 
 ## Screenshots
-![Main Activity](https://postimg.cc/PCzwCzZ1][img]https://i.postimg.cc/PCzwCzZ1/1.jpg) ![Capturing Image](https://postimg.cc/PLSv4XSx][img]https://i.postimg.cc/PLSv4XSx/2.jpg) ![Recognized Text](https://postimg.cc/yJ1ScgXt][img]https://i.postimg.cc/yJ1ScgXt/3.jpg)
+![Main Activity](https://i.postimg.cc/8zxBnZzX/1.jpg) ![Capturing Image](https://i.postimg.cc/xC2G9qHK/2.jpg) ![Recognized Text](https://i.postimg.cc/25vFpnqk/3.jpg)
 
 ## Download APK
 To test the app directly on your phone download and install app from below link.

@@ -18,5 +18,3 @@ To test the app directly on your phone download and install app from below link.
 
 ## Contribution
 If you have thought of adding some features or removing any bug then you are most welcome to **Contribute.**
-
-[![JpFmNt.th.jpg](https://iili.io/JpFmNt.th.jpg)](https://freeimage.host/i/JpFmNt) [![JpFbRI.th.jpg](https://iili.io/JpFbRI.th.jpg)](https://freeimage.host/i/JpFbRI) [![JpFpDX.th.jpg](https://iili.io/JpFpDX.th.jpg)](https://freeimage.host/i/JpFpDX) [![JpFDHN.th.jpg](https://iili.io/JpFDHN.th.jpg)](https://freeimage.host/i/JpFDHN) [![JpK9xn.th.jpg](https://iili.io/JpK9xn.th.jpg)](https://freeimage.host/i/JpK9xn) [![JpKHVs.th.jpg](https://iili.io/JpKHVs.th.jpg)](https://freeimage.host/i/JpKHVs)
